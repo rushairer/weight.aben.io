@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "292J49Y2B4.io.aben.weight.test",
+                "paths": [ "*"]
+            },
+            {
+                "appID": "292J49Y2B4.io.aben.weight",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
